@@ -1,0 +1,434 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AFLAGS	makefile	/^AFLAGS=-c -DDEBUG -lmysqlclient -lpthread -lccl $/;"	m
+AFN_HEARTBEAT	comm_proto.h	28;"	d
+AFN_REQPARM	comm_proto.h	27;"	d
+AFN_SETSINGPARM	comm_proto.h	26;"	d
+AFN_TEST	comm_proto.h	24;"	d
+ARITHMETIC_H	arithmetic.h	2;"	d
+BASEDIR	io_ctrl.h	25;"	d
+BST_H	ccl/include/ccl/bst.h	27;"	d
+BST_MAX_HEIGHT	ccl/include/ccl/bst.h	54;"	d
+BYTE_ELE0	comm_proto.h	109;"	d
+BYTE_ELE1	comm_proto.h	110;"	d
+BYTE_ELE10	comm_proto.h	118;"	d
+BYTE_ELE2	comm_proto.h	111;"	d
+BYTE_ELE4	comm_proto.h	112;"	d
+BYTE_ELE5	comm_proto.h	113;"	d
+BYTE_ELE6	comm_proto.h	114;"	d
+BYTE_ELE7	comm_proto.h	115;"	d
+BYTE_ELE8	comm_proto.h	116;"	d
+BYTE_ELE9	comm_proto.h	117;"	d
+BYTE_MAX	comm_proto.h	120;"	d
+CARD_STA_NOR	comm_proto.h	220;"	d
+CARD_STA_UNNOR	comm_proto.h	221;"	d
+CC	makefile	/^CC=arm-none-linux-gnueabi-gcc -g3 -rdynamic -Wall $/;"	m
+CCL_H	ccl/include/ccl/ccl.h	22;"	d
+CLOSE	io_ctrl.h	35;"	d
+CLOSEDOOR	msgqueue.h	90;"	d
+CODETYP_ASCII	comm_proto.h	90;"	d
+CODETYP_HEX	comm_proto.h	89;"	d
+COMM_PROTO_H	comm_proto.h	19;"	d
+CRC8Table	CRCcheck.c	/^static unsigned char CRC8Table[]={$/;"	v	file:
+CRC8Table	test/CRCcheck.c	/^static unsigned char CRC8Table[]={$/;"	v	file:
+CRCCHECK_H	CRCcheck.h	2;"	d
+CRCCHECK_H	test/CRCcheck.h	2;"	d
+C_DIR_BIT	comm_proto.h	32;"	d
+C_DIR_DOWN	comm_proto.h	30;"	d
+C_DIR_UP	comm_proto.h	31;"	d
+C_DIV_BIT	comm_proto.h	40;"	d
+C_DIV_MULT	comm_proto.h	39;"	d
+C_DIV_SING	comm_proto.h	38;"	d
+C_FUN_ACTIVE_DOWN_REQMULT	comm_proto.h	52;"	d
+C_FUN_ACTIVE_DOWN_REQSING	comm_proto.h	50;"	d
+C_FUN_ACTIVE_DOWN_RPLMULT	comm_proto.h	53;"	d
+C_FUN_ACTIVE_DOWN_RPLSING	comm_proto.h	51;"	d
+C_FUN_ACTIVE_DOWN_SND_SETPARM	comm_proto.h	48;"	d
+C_FUN_ACTIVE_DOWN_SND_TEST	comm_proto.h	47;"	d
+C_FUN_ACTIVE_DOWN_VERT_SETPARM	comm_proto.h	49;"	d
+C_FUN_ACTIVE_UP_SND_HEARTBEAT	comm_proto.h	55;"	d
+C_FUN_BIT	comm_proto.h	63;"	d
+C_FUN_NEGTIVE_UP_RPL	comm_proto.h	59;"	d
+C_FUN_NEGTIVE_UP_RPL_NULL	comm_proto.h	60;"	d
+C_FUN_NEGTIVE_UP_VERT	comm_proto.h	57;"	d
+C_FUN_NEGTIVE_UP_VERT_DENY	comm_proto.h	58;"	d
+C_PLY_BIT	comm_proto.h	44;"	d
+C_PLY_TRANS	comm_proto.h	43;"	d
+C_PRM_ACTIVE	comm_proto.h	34;"	d
+C_PRM_BIT	comm_proto.h	36;"	d
+C_PRM_NEGTIVE	comm_proto.h	35;"	d
+C_RLY_INITIAL	comm_proto.h	42;"	d
+DB_H	db.h	22;"	d
+DEBUG	doorIOG1_dev/doorIOG1_dev.c	19;"	d	file:
+DEBUG	doorIOG3_dev/doorIOG3_dev.c	19;"	d	file:
+DEBUG	test/my_regexe.h	12;"	d
+DEV_NAME	doorIOG1_dev/doorIOG1_dev.c	30;"	d	file:
+DEV_NAME	doorIOG3_dev/doorIOG3_dev.c	30;"	d	file:
+DEV_TYP_POS	comm_proto.h	219;"	d
+DOOR_OFF	doorIOG1_dev/doorIOG1_dev.c	29;"	d	file:
+DOOR_OFF	doorIOG3_dev/doorIOG3_dev.c	29;"	d	file:
+DOOR_ON	doorIOG1_dev/doorIOG1_dev.c	28;"	d	file:
+DOOR_ON	doorIOG3_dev/doorIOG3_dev.c	28;"	d	file:
+DPRINTK	doorIOG1_dev/doorIOG1_dev.c	21;"	d	file:
+DPRINTK	doorIOG1_dev/doorIOG1_dev.c	23;"	d	file:
+DPRINTK	doorIOG3_dev/doorIOG3_dev.c	21;"	d	file:
+DPRINTK	doorIOG3_dev/doorIOG3_dev.c	23;"	d	file:
+D_M_PRINT	print.h	22;"	d
+D_M_PRINT	print.h	24;"	d
+D_M_PRINT	test/monitor_key.c	28;"	d	file:
+D_M_PRINT	test/monitor_key.c	30;"	d	file:
+D_M_PRINT	test/my_regexe.h	14;"	d
+D_M_PRINT	test/my_regexe.h	16;"	d
+D_M_PRINT	test/testreg.c	26;"	d	file:
+D_M_PRINT	test/testreg.c	28;"	d	file:
+ELE0	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE1	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE10	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE2	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE3	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE4	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE5	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE6	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE7	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE8	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE9	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+ELE9_BEEP_ALERT	comm_proto.h	224;"	d
+ELE9_BEEP_OK	comm_proto.h	223;"	d
+ELE9_FORMAT	comm_proto.h	225;"	d
+ELE9_UPDATE	comm_proto.h	226;"	d
+ELEMAX	comm_proto.h	/^    ELE0=0,ELE1,ELE2,ELE3,ELE4,ELE5,ELE6,ELE7,ELE8,ELE9,ELE10,ELEMAX$/;"	e	enum:__anon2
+EXPORTDIR	io_ctrl.h	26;"	d
+FORBIDGO	msgqueue.h	25;"	d
+FRM_HEAD	comm_proto.h	21;"	d
+FRM_MIN_LEN	comm_proto.h	123;"	d
+FRM_TAIL	comm_proto.h	22;"	d
+GETDATE_H	getdate.h	2;"	d
+GPIODIR	io_ctrl.h	27;"	d
+GPIO_DIRE	io_ctrl.h	28;"	d
+GPIO_TO_PIN	doorIOG1_dev/doorIOG1_dev.c	26;"	d	file:
+GPIO_TO_PIN	doorIOG3_dev/doorIOG3_dev.c	26;"	d	file:
+GPIO_VAL	io_ctrl.h	29;"	d
+IN	io_ctrl.h	31;"	d
+IO_CTRL_H	io_ctrl.h	24;"	d
+KERNELDIR	doorIOG1_dev/Makefile	/^KERNELDIR ?= \/home\/zhao\/Workfile\/forlinux\/kernel-3.2\/ $/;"	m
+KERNELDIR	doorIOG3_dev/Makefile	/^KERNELDIR ?= \/home\/zhao\/Workfile\/forlinux\/kernel-3.2\/ $/;"	m
+KEY4	test/monitor_key.c	48;"	d	file:
+KEY5	test/monitor_key.c	47;"	d	file:
+KEYMAXNUM	test/monitor_key.c	49;"	d	file:
+KEY_DOWN	test/monitor_key.c	52;"	d	file:
+KEY_UP	test/monitor_key.c	53;"	d	file:
+Key4state	test/monitor_key.c	50;"	d	file:
+Key5state	test/monitor_key.c	51;"	d	file:
+LDFLAGS	makefile	/^LDFLAGS=-DDEBUG -lmysqlclient -lpthread -lccl $/;"	m
+LETGO	msgqueue.h	24;"	d
+LIBAVL_ALLOCATOR	ccl/include/ccl/bst.h	38;"	d
+LOG_FIELD	db.h	43;"	d
+LOG_TABLE	db.h	36;"	d
+MOBJS	makefile	/^MOBJS=AccessControlSys$/;"	m
+MONITOR_KEY_H	test/monitor_key.h	2;"	d
+MSGPATH	msgqueue.c	26;"	d	file:
+MSGPATH	msgqueue.h	12;"	d
+MSGPATH_H	msgqueue.c	25;"	d	file:
+MSGPATH_H	msgqueue.h	11;"	d
+MSGQUEUE_H	msgqueue.h	4;"	d
+MY_REGEXE_H	my_regexe.h	22;"	d
+MY_REGEXE_H	test/my_regexe.h	20;"	d
+M_print_err	print.h	8;"	d
+M_print_err	test/monitor_key.c	22;"	d	file:
+M_print_err	test/my_regexe.h	8;"	d
+M_print_err	test/testreg.c	20;"	d	file:
+M_print_mysql	print.h	16;"	d
+M_print_str	print.h	12;"	d
+M_print_str	test/monitor_key.c	23;"	d	file:
+M_print_str	test/my_regexe.h	9;"	d
+M_print_str	test/testreg.c	21;"	d	file:
+M_print_time_err	print.h	6;"	d
+M_print_time_mysql	print.h	14;"	d
+M_print_time_str	print.h	10;"	d
+N	net_report.c	24;"	d	file:
+N	test/testreg.c	15;"	d	file:
+NET_REPORT_H	net_report.h	13;"	d
+NMATCH	comm_proto.h	81;"	d
+N_BUFDATA	comm_proto.h	125;"	d
+N_PATTERN	my_regexe.h	27;"	d
+N_buf	rs485.h	14;"	d
+OBJS	makefile	/^OBJS=${patsubst *.c,*.o,$(SRC)}$/;"	m
+OPEN	io_ctrl.h	36;"	d
+OPENDOOR	msgqueue.h	89;"	d
+OPT_LOG_TABLE	msgqueue.h	78;"	d
+OPT_OTHER_TABLE	msgqueue.h	80;"	d
+OPT_RECORD_TABLE	msgqueue.h	79;"	d
+OUT	io_ctrl.h	32;"	d
+PMATCH_CRC	comm_proto.h	79;"	d
+PMATCH_DATA	comm_proto.h	78;"	d
+PMATCH_LEN	comm_proto.h	76;"	d
+PMATCH_RECV_ADDR	comm_proto.h	74;"	d
+PMATCH_SEQ	comm_proto.h	75;"	d
+PMATCH_SND_ADDR	comm_proto.h	73;"	d
+PRINTF_H	print.h	3;"	d
+PRINTF_H	test/monitor_key.c	20;"	d	file:
+PRINTF_H	test/my_regexe.h	6;"	d
+PRINTF_H	test/testreg.c	18;"	d	file:
+PWD	doorIOG1_dev/Makefile	/^PWD := $(shell pwd)$/;"	m
+PWD	doorIOG3_dev/Makefile	/^PWD := $(shell pwd)$/;"	m
+READY_CLOSE	io_ctrl.h	34;"	d
+REASON0	comm_proto.h	128;"	d
+REASON1	comm_proto.h	129;"	d
+REASON2	comm_proto.h	130;"	d
+REASON3	comm_proto.h	131;"	d
+REASON4	comm_proto.h	132;"	d
+REASON5	comm_proto.h	133;"	d
+REASON6	comm_proto.h	134;"	d
+REASON7	comm_proto.h	135;"	d
+REASON8	comm_proto.h	136;"	d
+REASON9	comm_proto.h	137;"	d
+RECORD_FIELD	db.h	42;"	d
+RECORD_TABEL	db.h	37;"	d
+REG_HEARTBEAT	comm_proto.h	87;"	d
+REG_LINKTEST_RPL	comm_proto.h	83;"	d
+REG_REQ_RPL	comm_proto.h	85;"	d
+REG_RET_FAIL	my_regexe.h	/^    REG_RET_FAIL,$/;"	e	enum:__anon20
+REG_RET_FAIL	test/my_regexe.h	/^    REG_RET_FAIL,$/;"	e	enum:__anon12
+REG_RET_SUCCESS	my_regexe.h	/^    REG_RET_SUCCESS,$/;"	e	enum:__anon20
+REG_RET_SUCCESS	test/my_regexe.h	/^    REG_RET_SUCCESS,$/;"	e	enum:__anon12
+REG_SETSINGPARM_RPL	comm_proto.h	84;"	d
+RS485_H	rs485.h	13;"	d
+RS485_RECV	rs485.c	35;"	d	file:
+RS485_SND	rs485.c	34;"	d	file:
+S	test/testreg.c	13;"	d	file:
+SAFE_FREE	my_regexe.h	5;"	d
+SAFE_FREE	test/my_regexe.h	3;"	d
+SERIAL_H	serial_init.h	2;"	d
+SRC	makefile	/^SRC=${wildcard *.c}$/;"	m
+TYPE_HEATBEAT	comm_proto.h	70;"	d
+TYPE_LINKTEST	comm_proto.h	66;"	d
+TYPE_REQMULT	comm_proto.h	69;"	d
+TYPE_REQSING	comm_proto.h	68;"	d
+TYPE_SETSINGPARM	comm_proto.h	67;"	d
+__this_module	doorIOG1_dev/doorIOG1_dev.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	doorIOG3_dev/doorIOG3_dev.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	doorIOG1_dev/doorIOG1_dev.mod.c	/^__used$/;"	v	file:
+__used	doorIOG1_dev/doorIOG1_dev.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	doorIOG3_dev/doorIOG3_dev.mod.c	/^__used$/;"	v	file:
+__used	doorIOG3_dev/doorIOG3_dev.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+abnormal_flag	comm_proto.h	/^    unsigned char abnormal_flag;$/;"	m	struct:__anon8
+afn	comm_proto.h	/^    unsigned char afn;$/;"	m	struct:__anon4
+afn	comm_proto.h	/^    unsigned char afn;$/;"	m	struct:__anon5
+analyzeFRM	comm_proto.c	/^int analyzeFRM(s_recvfrminfo *recvfrminfo, void *recvretarg, char **buf, unsigned int lenbuf, unsigned char codetype)$/;"	f
+bst_alloc	ccl/include/ccl/bst.h	/^    struct libavl_allocator *bst_alloc; \/* Memory allocator. *\/$/;"	m	struct:bst_table	typeref:struct:bst_table::libavl_allocator
+bst_assert_delete	ccl/include/ccl/bst.h	122;"	d
+bst_assert_delete	ccl/include/ccl/bst.h	125;"	d
+bst_assert_insert	ccl/include/ccl/bst.h	121;"	d
+bst_assert_insert	ccl/include/ccl/bst.h	124;"	d
+bst_compare	ccl/include/ccl/bst.h	/^    bst_comparison_func *bst_compare;   \/* Comparison function. *\/$/;"	m	struct:bst_table
+bst_comparison_func	ccl/include/ccl/bst.h	/^typedef int bst_comparison_func (const void *bst_a, const void *bst_b,$/;"	t
+bst_copy_func	ccl/include/ccl/bst.h	/^typedef void *bst_copy_func (void *bst_item, void *bst_param);$/;"	t
+bst_count	ccl/include/ccl/bst.h	/^    size_t bst_count;                   \/* Number of items in tree. *\/$/;"	m	struct:bst_table
+bst_count	ccl/include/ccl/bst.h	100;"	d
+bst_data	ccl/include/ccl/bst.h	/^    void *bst_data;                 \/* Pointer to data. *\/$/;"	m	struct:bst_node
+bst_generation	ccl/include/ccl/bst.h	/^    unsigned long bst_generation;       \/* Generation number. *\/$/;"	m	struct:bst_table
+bst_generation	ccl/include/ccl/bst.h	/^    unsigned long bst_generation;       \/* Generation number. *\/$/;"	m	struct:bst_traverser
+bst_height	ccl/include/ccl/bst.h	/^    size_t bst_height;                  \/* Number of nodes in |bst_parent|. *\/$/;"	m	struct:bst_traverser
+bst_item_func	ccl/include/ccl/bst.h	/^typedef void bst_item_func (void *bst_item, void *bst_param);$/;"	t
+bst_link	ccl/include/ccl/bst.h	/^    struct bst_node *bst_link[2];   \/* Subtrees. *\/$/;"	m	struct:bst_node	typeref:struct:bst_node::bst_node
+bst_node	ccl/include/ccl/bst.h	/^    struct bst_node *bst_node;          \/* Current node in tree. *\/$/;"	m	struct:bst_traverser	typeref:struct:bst_traverser::bst_node
+bst_node	ccl/include/ccl/bst.h	/^struct bst_node$/;"	s
+bst_param	ccl/include/ccl/bst.h	/^    void *bst_param;                    \/* Extra argument to |bst_compare|. *\/$/;"	m	struct:bst_table
+bst_root	ccl/include/ccl/bst.h	/^    struct bst_node *bst_root;          \/* Tree's root. *\/$/;"	m	struct:bst_table	typeref:struct:bst_table::bst_node
+bst_stack	ccl/include/ccl/bst.h	/^    struct bst_node *bst_stack[BST_MAX_HEIGHT];$/;"	m	struct:bst_traverser	typeref:struct:bst_traverser::bst_node
+bst_table	ccl/include/ccl/bst.h	/^    struct bst_table *bst_table;        \/* Tree being traversed. *\/$/;"	m	struct:bst_traverser	typeref:struct:bst_traverser::bst_table
+bst_table	ccl/include/ccl/bst.h	/^struct bst_table$/;"	s
+bst_traverser	ccl/include/ccl/bst.h	/^struct bst_traverser$/;"	s
+buf	msgqueue.h	/^    char buf[512];$/;"	m	struct:__anon18
+byte	comm_proto.c	/^int byte[ELEMAX] = {$/;"	v
+card_no	msgqueue.h	/^    unsigned int card_no;$/;"	m	struct:__anon15
+card_no	msgqueue.h	/^    unsigned int card_no;$/;"	m	struct:__anon16
+ccl_pair_t	ccl/include/ccl/ccl.h	/^struct ccl_pair_t$/;"	s
+ccl_t	ccl/include/ccl/ccl.h	/^struct ccl_t$/;"	s
+ccl_t	ccl/include/ccl/ccl.h	/^typedef struct ccl_t ccl_t;$/;"	t	typeref:struct:ccl_t
+cflag	my_regexe.h	/^    int cflag;$/;"	m	struct:__anon21
+cflag	test/my_regexe.h	/^    int cflag;$/;"	m	struct:__anon13
+code	test/monitor_key.c	/^    unsigned short code;$/;"	m	struct:__anon11	file:
+codetype	rs485.h	/^	unsigned char codetype;$/;"	m	struct:__anon1
+colulate_ele_len	comm_proto.c	/^static int colulate_ele_len(unsigned char element)$/;"	f	file:
+comment_char	ccl/include/ccl/ccl.h	/^  char comment_char;$/;"	m	struct:ccl_t
+constructFRM	comm_proto.c	/^unsigned int constructFRM(const s_sndfrminfo *sndfrminfo, char *sndbuf, unsigned char codetype)\/\/ s_elementdata *elementdata, unsigned int elementdata_num)$/;"	f
+construct_elementdata10	comm_proto.c	/^int construct_elementdata10(unsigned char beep ,s_elementdata *elementdata)$/;"	f
+construct_elementdata9	comm_proto.c	/^int construct_elementdata9(s_card_datazone *data, unsigned char type, s_elementdata *elementdata)$/;"	f
+crc8	CRCcheck.c	/^unsigned char crc8(char *p, unsigned int counter, unsigned char poly )$/;"	f
+crc8	test/CRCcheck.c	/^unsigned char crc8(unsigned char *p, unsigned int counter, unsigned char poly )$/;"	f
+db_schema	db.h	/^	char db_schema[24];    \/\/库名$/;"	m	struct:__anon23
+db_schema	rs485.h	/^    char db_schema[24];$/;"	m	struct:__anon1
+deal_reason	comm_proto.h	/^    char *deal_reason;$/;"	m	struct:__anon8
+deal_reason	msgqueue.h	/^    char *deal_reason;$/;"	m	struct:__anon16
+deal_result	msgqueue.h	/^    unsigned char deal_result;        \/\/'s'sucess     'f'fail$/;"	m	struct:__anon16
+deal_type	msgqueue.h	/^    unsigned char deal_type;          \/\/'f'format    'u'update   'n'null $/;"	m	struct:__anon16
+device_no	comm_proto.h	/^    unsigned short device_no;$/;"	m	struct:__anon8
+device_type	comm_proto.h	/^    unsigned char device_type;           \/\/00100000 刷卡读头$/;"	m	struct:__anon8
+dir	rs485.h	/^	char dir[12];                 \/\/485路径 \/dev\/ttyXXX$/;"	m	struct:__anon1
+direction	comm_proto.h	/^    unsigned char direction;$/;"	m	struct:__anon4
+direction	comm_proto.h	/^    unsigned char direction;$/;"	m	struct:__anon5
+direction	io_ctrl.h	/^	char *direction;$/;"	m	struct:__anon10
+door_exit	doorIOG1_dev/doorIOG1_dev.c	/^module_exit(door_exit);$/;"	v
+door_exit	doorIOG1_dev/doorIOG1_dev.c	/^static void __exit door_exit(void)$/;"	f	file:
+door_exit	doorIOG3_dev/doorIOG3_dev.c	/^module_exit(door_exit);$/;"	v
+door_exit	doorIOG3_dev/doorIOG3_dev.c	/^static void __exit door_exit(void)$/;"	f	file:
+door_fops	doorIOG1_dev/doorIOG1_dev.c	/^static struct file_operations door_fops = {$/;"	v	typeref:struct:file_operations	file:
+door_fops	doorIOG3_dev/doorIOG3_dev.c	/^static struct file_operations door_fops = {$/;"	v	typeref:struct:file_operations	file:
+door_init	doorIOG1_dev/doorIOG1_dev.c	/^module_init(door_init);$/;"	v
+door_init	doorIOG1_dev/doorIOG1_dev.c	/^static int __init door_init(void)$/;"	f	file:
+door_init	doorIOG3_dev/doorIOG3_dev.c	/^module_init(door_init);$/;"	v
+door_init	doorIOG3_dev/doorIOG3_dev.c	/^static int __init door_init(void)$/;"	f	file:
+door_ioctl	doorIOG1_dev/doorIOG1_dev.c	/^static long door_ioctl(struct file *filp,$/;"	f	file:
+door_ioctl	doorIOG3_dev/doorIOG3_dev.c	/^static long door_ioctl(struct file *filp,$/;"	f	file:
+door_miscdev	doorIOG1_dev/doorIOG1_dev.c	/^static struct miscdevice door_miscdev =$/;"	v	typeref:struct:miscdevice	file:
+door_miscdev	doorIOG3_dev/doorIOG3_dev.c	/^static struct miscdevice door_miscdev =$/;"	v	typeref:struct:miscdevice	file:
+door_num	db.h	/^    unsigned int door_num;       \/\/不是send_addr，而是门编号$/;"	m	struct:__anon23
+door_off	doorIOG1_dev/doorIOG1_dev.c	/^static void door_off(int num)$/;"	f	file:
+door_off	doorIOG3_dev/doorIOG3_dev.c	/^static void door_off(int num)$/;"	f	file:
+door_on	doorIOG1_dev/doorIOG1_dev.c	/^static void door_on(int num)$/;"	f	file:
+door_on	doorIOG3_dev/doorIOG3_dev.c	/^static void door_on(int num)$/;"	f	file:
+door_open	doorIOG1_dev/doorIOG1_dev.c	/^static int door_open(struct inode *inode, struct file *filp)$/;"	f	file:
+door_open	doorIOG3_dev/doorIOG3_dev.c	/^static int door_open(struct inode *inode, struct file *filp)$/;"	f	file:
+door_release	doorIOG1_dev/doorIOG1_dev.c	/^static int door_release(struct inode *inode, struct file *filp)$/;"	f	file:
+door_release	doorIOG3_dev/doorIOG3_dev.c	/^static int door_release(struct inode *inode, struct file *filp)$/;"	f	file:
+dummy1	test/monitor_key.c	/^    unsigned int dummy1;$/;"	m	struct:__anon11	file:
+dummy2	test/monitor_key.c	/^    unsigned int dummy2;$/;"	m	struct:__anon11	file:
+dummy3	test/monitor_key.c	/^    unsigned int dummy3;$/;"	m	struct:__anon11	file:
+dummy4	test/monitor_key.c	/^    unsigned int dummy4;$/;"	m	struct:__anon11	file:
+dummy5	test/monitor_key.c	/^    unsigned int dummy5;$/;"	m	struct:__anon11	file:
+dummy6	test/monitor_key.c	/^    unsigned int dummy6;$/;"	m	struct:__anon11	file:
+e_ele_nem	comm_proto.h	/^}e_ele_nem;$/;"	t	typeref:enum:__anon2
+e_regFRM_ret	my_regexe.h	/^}e_regFRM_ret;$/;"	t	typeref:enum:__anon20
+e_regFRM_ret	test/my_regexe.h	/^}e_regFRM_ret;$/;"	t	typeref:enum:__anon12
+element	comm_proto.h	/^    unsigned char element;$/;"	m	struct:__anon3
+elementdata	comm_proto.h	/^    s_elementdata *elementdata;         \/\/数组$/;"	m	struct:__anon4
+elementdata	comm_proto.h	/^    s_elementdata *elementdata;         \/\/数组$/;"	m	struct:__anon6
+elementdata_num	comm_proto.h	/^    unsigned int *elementdata_num;      \/\/数组个数，也就是元素组个数，由帧解析函数填充   ?这样穿参数是否合法,在解析函数中开辟内存，再写一个释放函数释放内存$/;"	m	struct:__anon6
+elementdata_num	comm_proto.h	/^    unsigned int elementdata_num;$/;"	m	struct:__anon4
+elementdatacontext	comm_proto.h	/^    char elementdatacontext[BYTE_MAX];$/;"	m	struct:__anon3
+errornum	comm_proto.h	/^    unsigned char errornum;$/;"	m	struct:__anon7
+flow	io_ctrl.h	/^	char *flow;$/;"	m	struct:__anon10
+flow_num	comm_proto.h	/^    unsigned int flow_num;$/;"	m	struct:__anon8
+forbid_reason	msgqueue.h	/^    char *forbid_reason;$/;"	m	struct:__anon15
+get_card_no	comm_proto.c	/^unsigned int get_card_no(char *databuf)$/;"	f
+get_flow_data	comm_proto.c	/^unsigned int get_flow_data(char *databuf)$/;"	f
+get_gpioval_pfile	io_ctrl.c	/^int get_gpioval_pfile(FILE **pfile_val, s_ioctrl *parm)$/;"	f
+get_key_type	comm_proto.c	/^unsigned char get_key_type(char *databuf)$/;"	f
+get_reason_id	db.c	/^static int get_reason_id(MYSQL *conn,char *reason)$/;"	f	file:
+get_sta_data	comm_proto.c	/^unsigned char get_sta_data(char *databuf)$/;"	f
+getdate_BCD	getdate.c	/^void getdate_BCD(char str_time[])$/;"	f
+getdate_hour	getdate.c	/^unsigned int getdate_hour()$/;"	f
+getdate_know_t	getdate.c	/^void getdate_know_t(time_t t, char str_time[])$/;"	f
+getdate_unknow_t	getdate.c	/^void getdate_unknow_t(char str_time[])$/;"	f
+gpio	io_ctrl.h	/^	char *gpio;$/;"	m	struct:__anon10
+gpio_in	io_ctrl.h	/^	char gpio_in[12];           \/\/eg:gpio1-24    信号输入管脚$/;"	m	struct:__anon9
+gpio_init	io_ctrl.c	/^int gpio_init(char *gpiodir, s_ioctrl *parm)$/;"	f
+gpio_out	io_ctrl.h	/^	char gpio_out[12];          \/\/信号输出管脚$/;"	m	struct:__anon9
+head_no	msgqueue.h	/^    unsigned char head_no;          $/;"	m	struct:__anon15
+head_no	msgqueue.h	/^    unsigned char head_no;$/;"	m	struct:__anon16
+id_dbmsg	db.h	/^	int id_dbmsg;                \/\/消息队列ID$/;"	m	struct:__anon23
+id_dbmsg	io_ctrl.h	/^	int id_dbmsg;$/;"	m	struct:__anon9
+id_dbmsg	rs485.h	/^	int id_dbmsg;$/;"	m	struct:__anon1
+id_iomsg	io_ctrl.h	/^	int id_iomsg;$/;"	m	struct:__anon9
+id_iomsg	rs485.h	/^    int id_iomsg;$/;"	m	struct:__anon1
+id_msg	msgqueue.h	/^	int id_msg;$/;"	m	struct:__anon14
+io_switch	msgqueue.h	/^	unsigned char io_switch;$/;"	m	struct:__anon19
+ip	net_report.h	/^    char ip[12];$/;"	m	struct:__anon22
+iterating	ccl/include/ccl/ccl.h	/^  int iterating;$/;"	m	struct:ccl_t
+keepalive	net_report.h	/^    int keepalive;$/;"	m	struct:__anon22
+keepcnt	net_report.h	/^    int keepcnt;$/;"	m	struct:__anon22
+keepidle	net_report.h	/^    int keepidle;$/;"	m	struct:__anon22
+keepintval	net_report.h	/^    int keepintval;$/;"	m	struct:__anon22
+key	ccl/include/ccl/ccl.h	/^  char *key;$/;"	m	struct:ccl_pair_t
+key	msgqueue.h	/^	key_t key;$/;"	m	struct:__anon14
+letgo_flag	msgqueue.h	/^    unsigned char letgo_flag;         \/\/'Y'          'N'$/;"	m	struct:__anon15
+libavl_allocator	ccl/include/ccl/bst.h	/^struct libavl_allocator$/;"	s
+libavl_free	ccl/include/ccl/bst.h	/^    void (*libavl_free) (struct libavl_allocator *, void *libavl_block);$/;"	m	struct:libavl_allocator
+libavl_malloc	ccl/include/ccl/bst.h	/^    void *(*libavl_malloc) (struct libavl_allocator *, size_t libavl_size);$/;"	m	struct:libavl_allocator
+main	AccessControlSys.c	/^int main(int argc, const char *argv[])$/;"	f
+main	doorIOG1_dev/test_door.c	/^int main(int argc, const char *argv[])$/;"	f
+main	test/monitor_key.c	/^int main(int agrc, const char *argv[])$/;"	f
+main	test/testccl.c	/^void main()$/;"	f
+main	test/testcrc.c	/^int main()$/;"	f
+main	test/testreg.c	/^int main()$/;"	f
+msgqueue_create	msgqueue.c	/^int msgqueue_create(s_msginfo *msginfo)$/;"	f
+mtype	msgqueue.h	/^	long mtype;                  \/\/值为1$/;"	m	struct:__anon19
+mtype	msgqueue.h	/^    long mtype;$/;"	m	struct:__anon18
+nmatch	my_regexe.h	/^    int nmatch;$/;"	m	struct:__anon21
+nmatch	test/my_regexe.h	/^    int nmatch;$/;"	m	struct:__anon13
+obj-m	doorIOG1_dev/Makefile	/^    obj-m := doorIOG1_dev.o$/;"	m
+obj-m	doorIOG3_dev/Makefile	/^    obj-m := doorIOG3_dev.o$/;"	m
+password	db.h	/^	char password[24];$/;"	m	struct:__anon23
+password	rs485.h	/^    char password[24];$/;"	m	struct:__anon1
+path_id	msgqueue.h	/^    unsigned char path_id;$/;"	m	struct:__anon14
+pattern	my_regexe.h	/^    char *pattern;$/;"	m	struct:__anon21
+pattern	test/my_regexe.h	/^    char *pattern;$/;"	m	struct:__anon13
+pmatch	my_regexe.h	/^    regmatch_t *pmatch;$/;"	m	struct:__anon21
+pmatch	test/my_regexe.h	/^    regmatch_t *pmatch;$/;"	m	struct:__anon13
+port	net_report.h	/^    int port;$/;"	m	struct:__anon22
+pthread_db	db.c	/^void *pthread_db(void *arg)$/;"	f
+pthread_io	io_ctrl.c	/^void *pthread_io(void *arg)$/;"	f
+pthread_netreport	net_report.c	/^void *pthread_netreport(void *arg)$/;"	f
+pthread_rs485	rs485.c	/^void *pthread_rs485(void *arg)$/;"	f
+recv_addr	comm_proto.h	/^    unsigned short recv_addr;$/;"	m	struct:__anon4
+recv_addr	comm_proto.h	/^    unsigned short recv_addr;$/;"	m	struct:__anon5
+recv_addr	io_ctrl.h	/^	unsigned short recv_addr;$/;"	m	struct:__anon9
+recv_addr	rs485.h	/^    unsigned short recv_addr;          \/\/head_no           改进：如果以后连多个pos机，应该从心跳帧中去获取$/;"	m	struct:__anon1
+recv_buf	msgqueue.h	/^    char recv_buf[64];$/;"	m	struct:__anon16
+regFRM	my_regexe.c	/^e_regFRM_ret regFRM(s_reginfo *reginfo)$/;"	f
+regFRM	test/my_regexe.c	/^e_regFRM_ret regFRM(s_reginfo *reginfo)$/;"	f
+regbuf	my_regexe.h	/^    char *regbuf;$/;"	m	struct:__anon21
+regbuf	test/my_regexe.h	/^    char *regbuf;$/;"	m	struct:__anon13
+result	comm_proto.h	/^    unsigned char result;              \/\/1 -- ok          0 -- sth wrong$/;"	m	struct:__anon7
+return_if_fail	my_regexe.h	3;"	d
+return_if_fail	test/my_regexe.h	1;"	d
+return_str	my_regexe.h	4;"	d
+return_str	test/my_regexe.h	2;"	d
+s	test/testreg.c	14;"	d	file:
+s_card_datazone	comm_proto.h	/^}s_card_datazone;$/;"	t	typeref:struct:__anon8
+s_dbMSG	msgqueue.h	/^}s_dbMSG;$/;"	t	typeref:struct:__anon18
+s_db_parm	db.h	/^}s_db_parm;$/;"	t	typeref:struct:__anon23
+s_elementdata	comm_proto.h	/^}s_elementdata;$/;"	t	typeref:struct:__anon3
+s_inputdata	test/monitor_key.c	/^}s_inputdata;$/;"	t	typeref:struct:__anon11	file:
+s_ioMSG	msgqueue.h	/^}s_ioMSG;$/;"	t	typeref:struct:__anon19
+s_io_parm	io_ctrl.h	/^}s_io_parm;$/;"	t	typeref:struct:__anon9
+s_ioctrl	io_ctrl.h	/^}s_ioctrl;$/;"	t	typeref:struct:__anon10
+s_logMSG	msgqueue.h	/^}s_logMSG;$/;"	t	typeref:struct:__anon16
+s_msginfo	msgqueue.h	/^}s_msginfo;$/;"	t	typeref:struct:__anon14
+s_netinfo	net_report.h	/^}s_netinfo;$/;"	t	typeref:struct:__anon22
+s_recordMSG	msgqueue.h	/^}s_recordMSG;$/;"	t	typeref:struct:__anon15
+s_recvfrminfo	comm_proto.h	/^}s_recvfrminfo;$/;"	t	typeref:struct:__anon5
+s_recvretreq	comm_proto.h	/^}s_recvretreq;$/;"	t	typeref:struct:__anon6
+s_recvretset	comm_proto.h	/^}s_recvretset;$/;"	t	typeref:struct:__anon7
+s_reginfo	my_regexe.h	/^}s_reginfo;$/;"	t	typeref:struct:__anon21
+s_reginfo	test/my_regexe.h	/^}s_reginfo;$/;"	t	typeref:struct:__anon13
+s_rs485_parm	rs485.h	/^}s_rs485_parm;$/;"	t	typeref:struct:__anon1
+s_sndfrminfo	comm_proto.h	/^}s_sndfrminfo;$/;"	t	typeref:struct:__anon4
+s_sqlMSG	msgqueue.h	/^}s_sqlMSG;$/;"	t	typeref:struct:__anon17
+send_addr	comm_proto.h	/^    unsigned short send_addr;$/;"	m	struct:__anon4
+send_addr	comm_proto.h	/^    unsigned short send_addr;$/;"	m	struct:__anon5
+send_addr	io_ctrl.h	/^	unsigned short send_addr;$/;"	m	struct:__anon9
+send_addr	rs485.h	/^	unsigned short send_addr;$/;"	m	struct:__anon1
+sep_char	ccl/include/ccl/ccl.h	/^  char sep_char;$/;"	m	struct:ccl_t
+seq	comm_proto.h	/^    unsigned char seq;$/;"	m	struct:__anon4
+seq	comm_proto.h	/^    unsigned char seq;$/;"	m	struct:__anon5
+serial_init	serial_init.c	/^void serial_init(int fd, int vmin)$/;"	f
+snd_buf	msgqueue.h	/^    char snd_buf[64];$/;"	m	struct:__anon16
+str_char	ccl/include/ccl/ccl.h	/^  char str_char;$/;"	m	struct:ccl_t
+str_sql	msgqueue.h	/^    char str_sql[256];$/;"	m	struct:__anon17
+table	ccl/include/ccl/ccl.h	/^  struct bst_table *table;$/;"	m	struct:ccl_t	typeref:struct:ccl_t::bst_table
+time	comm_proto.h	/^    char time[5];$/;"	m	struct:__anon8
+time	msgqueue.h	/^    time_t time;$/;"	m	struct:__anon15
+time	msgqueue.h	/^    time_t time;$/;"	m	struct:__anon16
+traverser	ccl/include/ccl/ccl.h	/^  struct bst_traverser traverser;$/;"	m	struct:ccl_t	typeref:struct:ccl_t::bst_traverser
+type	test/monitor_key.c	/^    unsigned short type;$/;"	m	struct:__anon11	file:
+user	db.h	/^	char user[12];$/;"	m	struct:__anon23
+user	rs485.h	/^    char user[11];$/;"	m	struct:__anon1
+value	ccl/include/ccl/ccl.h	/^  char *value;$/;"	m	struct:ccl_pair_t
+value	test/monitor_key.c	/^    unsigned int value;$/;"	m	struct:__anon11	file:
+waitd	net_report.h	/^    struct timeval waitd;$/;"	m	struct:__anon22	typeref:struct:__anon22::timeval
